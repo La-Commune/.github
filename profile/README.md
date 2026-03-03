@@ -1,12 +1,40 @@
-## Hi there 👋
+<div align="center">
+  <img alt="La Commune" width="40%"  src="https://github.com/user-attachments/assets/b33a54c0-dc31-4f59-acb2-00481c84d420" />
+</div>
 
-<!--
+<br/>
 
-**Here are some ideas to get you started:**
+<div align="center">
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Café de especialidad · Mineral de la Reforma, Hidalgo, México**
+
+</div>
+
+---
+
+### Qué hacemos aquí
+
+Código de producción del programa de fidelidad digital de La Commune.
+Los clientes acumulan visitas escaneando un QR; el barista gestiona el menú en tiempo real desde el panel de admin.
+
+---
+
+### Repositorios
+
+| Repo | Descripción |
+|------|-------------|
+| [`la-commune-frontend`](https://github.com/La-Commune/la-commune-frontend) | PWA de fidelidad — Next.js · Firebase · Tailwind |
+
+---
+
+### Stack
+
+`Next.js 13` · `Firebase Firestore` · `Tailwind CSS` · `Framer Motion` · `TypeScript`
+
+---
+
+<div align="center">
+
+[lacommune.mx](https://lacommune.mx) · Mineral de la Reforma, Hidalgo
+
+</div>
