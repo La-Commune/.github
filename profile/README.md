@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="La Commune" width="40%"  src="https://github.com/user-attachments/assets/b33a54c0-dc31-4f59-acb2-00481c84d420" />
+  <img width="1280" height="640" alt="La Commune Brand Assets 1280" src="https://github.com/user-attachments/assets/a95d5644-90bc-4177-8345-2818f6081ec5" />
 </div>
 
 <br/>
