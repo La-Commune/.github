@@ -14,8 +14,8 @@
 
 ### Qué hacemos aquí
 
-Código de producción del programa de fidelidad digital de La Commune.
-Los clientes acumulan visitas escaneando un QR; el barista gestiona el menú en tiempo real desde el panel de admin.
+Código de producción del ecosistema digital de La Commune: programa de fidelidad para clientes y sistema de punto de venta interno.
+Los clientes acumulan sellos escaneando un QR; el equipo gestiona órdenes, cobros, inventario y reportes desde el POS.
 
 ---
 
@@ -23,18 +23,19 @@ Los clientes acumulan visitas escaneando un QR; el barista gestiona el menú en 
 
 | Repo | Descripción |
 |------|-------------|
-| [`la-commune-frontend`](https://github.com/La-Commune/la-commune-frontend) | PWA de fidelidad — Next.js · Firebase · Tailwind |
+| [`la-commune-frontend`](https://github.com/La-Commune/la-commune-frontend) | PWA de fidelidad — Next.js 16 · Supabase · Tailwind |
+| [`la-commune-pos`](https://github.com/La-Commune/la-commune-pos) | Sistema Punto de Venta — Next.js 14 · Supabase · Zustand · Tailwind |
 
 ---
 
 ### Stack
 
-`Next.js 13` · `Firebase Firestore` · `Tailwind CSS` · `Framer Motion` · `TypeScript`
+`Next.js` · `Supabase` · `TypeScript` · `Zustand` · `Tailwind CSS` · `Framer Motion` · `Playwright` · `Vitest`
 
 ---
 
 <div align="center">
 
-[lacommune.mx](https://lacommune.mx) · Mineral de la Reforma, Hidalgo
+Mineral de la Reforma, Hidalgo
 
 </div>
